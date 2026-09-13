@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Python, Artificial Intelligence (AI), and Data Science**
 - 🤝 I'm looking to collaborate on **practical AI projects and real-world agentic applications**
 - 💬 Ask me about **AI/ML workflows, React, Node.js fundamentals, and LLM applications**
-- 📫 How to reach me: **[mushtaqlaiba8@gmail.com](mailto:laibaflora78@gmail.com)**
+- 📫 How to reach me: **[laibaflora78@gmail.com](mailto:laibaflora78@gmail.com)**
 - ⚡ Fun fact: **Love watching anime and enjoy framing complex AI concepts around real-life problems 🚀**
 
 <hr>
