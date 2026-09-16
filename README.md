@@ -15,7 +15,7 @@
 - 🤝 I'm looking to collaborate on **practical AI projects and real-world agentic applications**
 - 💬 Ask me about **AI/ML workflows, React, Node.js fundamentals, and LLM applications**
 - 📫 How to reach me: **[laibaflora78@gmail.com](mailto:laibaflora78@gmail.com)**
-- ⚡ Fun fact: **Love watching anime and enjoy framing complex AI concepts around real-life problems 🚀**
+- ⚡ Fun fact: **Anime lover. Curious mind. Slightly stubborn soul. I tend to turn random “what if?” thoughts into things that probably didn’t need to exist, but now absolutely do. 🚀**
 
 <hr>
 
