@@ -173,9 +173,9 @@
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
   </a>
   <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" />
-  </a>
+  </a> -->
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
