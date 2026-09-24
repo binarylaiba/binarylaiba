@@ -60,14 +60,11 @@
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" />
   </a>
-  <!-- PyTorch -->
-  <!-- <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40" />
-  </a>  -->
-  <!-- TensorFlow -->
-  <!-- <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+   
+ <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
-  </a> -->
+  </a>
   <!-- Scikit-Learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-Learn" width="40" height="40" />
