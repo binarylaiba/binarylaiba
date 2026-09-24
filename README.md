@@ -3,7 +3,7 @@
 <!-- Centered introduction with primary name and specialization tags   -->
 <!-- ================================================================= -->
 <h1 align="center">Hi 👋, I'm Laiba Mushtaq</h1> 
-<h2 align="center">AI Engineer | Agentic AI • GenAI • Machine Learning</h2>
+<h2 align="center">AI Engineer • GenAI • Machine Learning</h2>
 
 <hr>
 
