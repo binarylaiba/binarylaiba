@@ -29,19 +29,19 @@
 <p align="center">
   <!-- GitHub Profile -->
   <a href="https://github.com/binarylaiba" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Profile" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Profile" height="50" width="50" />
   </a>
   <!-- LinkedIn Profile -->
   <a href="https://linkedin.com/in/laiba-mushtaq-580781181/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="50" />
   </a>
   <!-- X / Twitter Profile -->
   <a href="https://twitter.com/Laibamu36444508" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="50" width="50" />
   </a>
   <!-- Medium Blog -->
   <a href="https://medium.com/@mushtaqlaiba8" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Articles" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Articles" height="50" width="50" />
   </a>
 </p>
 
@@ -99,27 +99,27 @@
 <p align="center">
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
   </a>
   <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
   </a>
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" />
   </a>
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/logos/seaborn-icon.svg" alt="Seaborn" width="40" height="40" />
+    <img src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/logos/seaborn-icon.svg" alt="Seaborn" width="50" height="50" />
   </a>
   <!-- Chart.js -->
   <a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="50" height="50" />
   </a>
   <!-- Streamlit -->
   <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="50" height="50" />
   </a>
 </p>
 
@@ -127,63 +127,63 @@
 <p align="center">
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
   </a>
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
   </a>
   <!-- React.js -->
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
   </a>
   <!-- Express.js -->
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" />
   </a>
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" />
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
   </a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
   </a>
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50" />
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
   </a>
   <!-- VS Code (Fixed: typo on attribute alt= " vscode") -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" alt="VS Code" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" alt="VS Code" width="50" height="50" />
   </a>
   <!-- n8n Workflow Automation -->
   <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/n8n.webp" alt="n8n" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/n8n.webp" alt="n8n" width="50" height="50" />
   </a>
 </p>
 
