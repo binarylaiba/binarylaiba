@@ -58,40 +58,40 @@
 <p align="center">
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
   </a>
    
  <!-- TensorFlow -->
   <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" />
   </a>
   <!-- Scikit-Learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-Learn" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-Learn" width="50" height="50" />
   </a>
   <!-- Hugging Face (Fixed: replaced 0-width tag with standard vector) -->
   <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="50" height="50" />
   </a>
   <!-- LangChain -->
   <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="50" height="50" />
   </a>
   <!-- CrewAI -->
   <a href="https://www.crewai.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/crewai/FF5A50" alt="CrewAI" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/crewai/FF5A50" alt="CrewAI" width="50" height="50" />
   </a>
   <!-- OpenCV (Fixed: syntax quote error on alt attribute) -->
   <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/OpenCV-Dark.svg" alt="OpenCV" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/OpenCV-Dark.svg" alt="OpenCV" width="50" height="50" />
   </a>
   <!-- Google Colab -->
   <a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/google-colab.webp" alt="Google Colab" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/google-colab.webp" alt="Google Colab" width="50" height="50" />
   </a>
   <!-- Jupyter Notebook -->
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="50" />
   </a>
 </p>
 
